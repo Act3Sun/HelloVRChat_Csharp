@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj": {}
+    "d:\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj": {}
   },
   "projects": {
-    "D:\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj": {
+    "d:\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj",
+        "projectUniqueName": "d:\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj",
         "projectName": "HelloVRChat_Csharp",
-        "projectPath": "D:\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj",
+        "projectPath": "d:\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj",
         "packagesPath": "C:\\Users\\hryo1\\.nuget\\packages\\",
-        "outputPath": "D:\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp\\obj\\",
+        "outputPath": "d:\\Repository\\HelloVRChat_Csharp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\hryo1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\hryo1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0-windows"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,6 +50,12 @@
       "frameworks": {
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
+          "dependencies": {
+            "Rug.Osc.Core": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

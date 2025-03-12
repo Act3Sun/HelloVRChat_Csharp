@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "HelloVRChat_Csharp/1.0.0": {
+        "dependencies": {
+          "Rug.Osc.Core": "1.0.0"
+        },
+        "runtime": {
+          "HelloVRChat_Csharp.dll": {}
+        }
+      },
+      "Rug.Osc.Core/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/Rug.Osc.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloVRChat_Csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Rug.Osc.Core/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fp7WKpbOTltrOt6IM9WC2wq9gm4hyDrWTFuCFgCBW+G2pJYEvFX4icLWxvcoh6WwOnlexq1YilFbxhjioWJB0g==",
+      "path": "rug.osc.core/1.0.0",
+      "hashPath": "rug.osc.core.1.0.0.nupkg.sha512"
+    }
+  }
+}
