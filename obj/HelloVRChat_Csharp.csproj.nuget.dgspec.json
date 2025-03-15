@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hryo1\\OneDrive\\ドキュメント\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj": {}
+    "c:\\Users\\hryo1\\OneDrive\\ドキュメント\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hryo1\\OneDrive\\ドキュメント\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj": {
+    "c:\\Users\\hryo1\\OneDrive\\ドキュメント\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hryo1\\OneDrive\\ドキュメント\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj",
+        "projectUniqueName": "c:\\Users\\hryo1\\OneDrive\\ドキュメント\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj",
         "projectName": "HelloVRChat_Csharp",
-        "projectPath": "C:\\Users\\hryo1\\OneDrive\\ドキュメント\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj",
+        "projectPath": "c:\\Users\\hryo1\\OneDrive\\ドキュメント\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj",
         "packagesPath": "C:\\Users\\hryo1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hryo1\\OneDrive\\ドキュメント\\Repository\\HelloVRChat_Csharp\\obj\\",
+        "outputPath": "c:\\Users\\hryo1\\OneDrive\\ドキュメント\\Repository\\HelloVRChat_Csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hryo1\\AppData\\Roaming\\NuGet\\NuGet.Config"
