@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj": {}
+    "C:\\Users\\hryo1\\OneDrive\\ドキュメント\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj": {}
   },
   "projects": {
-    "d:\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj": {
+    "C:\\Users\\hryo1\\OneDrive\\ドキュメント\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj",
+        "projectUniqueName": "C:\\Users\\hryo1\\OneDrive\\ドキュメント\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj",
         "projectName": "HelloVRChat_Csharp",
-        "projectPath": "d:\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj",
+        "projectPath": "C:\\Users\\hryo1\\OneDrive\\ドキュメント\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj",
         "packagesPath": "C:\\Users\\hryo1\\.nuget\\packages\\",
-        "outputPath": "d:\\Repository\\HelloVRChat_Csharp\\obj\\",
+        "outputPath": "C:\\Users\\hryo1\\OneDrive\\ドキュメント\\Repository\\HelloVRChat_Csharp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\hryo1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\hryo1\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

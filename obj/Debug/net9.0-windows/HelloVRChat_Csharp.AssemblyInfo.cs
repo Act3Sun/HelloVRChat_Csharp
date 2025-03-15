@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HelloVRChat_Csharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e6be7b84e6904d7f17674e172705314bfea2fcc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65700eeb3a3e6fe9f5b544573343d34fabe7da01")]
 [assembly: System.Reflection.AssemblyProductAttribute("HelloVRChat_Csharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HelloVRChat_Csharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

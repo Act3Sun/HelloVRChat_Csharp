@@ -18,10 +18,10 @@ public partial class Form1 : Form
     }
     private void SendMsg ()
     {
-        // ホスト名を取得
+        //NOTE ホスト名を取得
         string hostName = Dns.GetHostName();
 
-        // ホスト名からIPアドレスを取得
+        //NOTE ホスト名からIPアドレスを取得
             IPAddress address = IPAddress.Parse("127.0.0.1");
             int PortNo = 9000;
 
@@ -31,7 +31,7 @@ public partial class Form1 : Form
     }
    private void Form1_FormClosing(object sender, FormClosingEventArgs e)
     {
-        // アプリケーションが終了する前にOSCセンダーを閉じる
+        //NOTE アプリケーションが終了する前にOSCセンダーを閉じる
         OscS.Close();
     }
 }

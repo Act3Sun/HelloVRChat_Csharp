@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4MX14O4Z3M4=",
+  "dgSpecHash": "gWKmZl26PWw=",
   "success": true,
-  "projectFilePath": "d:\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj",
+  "projectFilePath": "C:\\Users\\hryo1\\OneDrive\\ドキュメント\\Repository\\HelloVRChat_Csharp\\HelloVRChat_Csharp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hryo1\\.nuget\\packages\\rug.osc.core\\1.0.0\\rug.osc.core.1.0.0.nupkg.sha512"
   ],
